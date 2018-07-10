@@ -1,0 +1,20 @@
+{
+  "name": "guld-ledger-btc",
+  "version": "0.0.2",
+  "description": "Bitcoin (BTC) guld ledger library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guld",
+    "ledger",
+    "bitcoin"
+  ],
+  "author": "isysd",
+  "license": "MIT",
+  "dependencies": {
+    "blockchain.info": "^2.12.1",
+    "insight-cli": "^0.4.7"
+  }
+}
