@@ -1,6 +1,6 @@
 {
   "name": "guld-ledger-btc",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Bitcoin (BTC) guld ledger library.",
   "main": "index.js",
   "scripts": {
