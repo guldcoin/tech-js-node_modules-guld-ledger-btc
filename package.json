@@ -16,5 +16,8 @@
   "dependencies": {
     "blockchain.info": "^2.12.1",
     "insight-cli": "^0.4.7"
-  }
+  },
+  "readme": "README.md",
+  "homepage": "https://github.com/isysd/tech-js-node_modules-guld-ledger-btc#readme",
+  "repository": "git@github.com:isysd/tech-js-node_modules-guld-ledger-btc.git"
 }
